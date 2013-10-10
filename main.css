@@ -1,0 +1,208 @@
+body{
+	background-color: #f5f5f5;
+}
+
+.container{
+	width: 860px;
+	margin: auto;
+}
+
+.container-900{
+	width: 900px;
+	margin: auto;
+}
+
+p{
+	font-family: arial;
+	font-size: 13px;
+	line-height: 20px;
+	color: #4e4e4e;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family: "Myriad Pro Light"
+}
+
+h1{	
+	font-size: 40px;
+}
+
+h2{
+	font-size: 28px;
+}
+
+h3{
+	font-size: 24px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+a.purple-text{
+	color: #a369c4;
+}
+
+.left{
+	float: left;
+}
+
+.right{
+	float: right;
+}
+
+.half{
+	width: 50%;
+}
+
+/*-------------------------------header-------------------------------*/
+
+.header{
+	width: 100%;
+	background-image: url(images/background-top.png);
+	height: 285px;
+}
+
+.header p{
+	color: #9688a7;
+}
+
+.header a {
+	text-decoration: none;
+}
+
+.header h1{
+	color: #fff;
+}
+
+.navbar li{
+	display: inline-block;
+	text-decoration: none;
+}
+
+.header .navbar{
+	margin-top: 23px;
+}
+
+.header .navbar a{
+	color: #fff;
+	text-shadow: 2px 2px 2px #714699;
+}
+
+.header .navbar a{
+	padding: 6px;
+}
+
+.active-page{
+	border-radius: 5px;
+	background-color: #fff;
+}
+
+.navbar a.active-page {
+	color: #764e95;
+	text-shadow: 2px 2px 2px #dadada;
+	box-shadow: 0px -14px 18px -2px #b3b3b3 inset,2px 2px 11px 2px #7c4fa5;
+}
+
+.header .navbar .vert-div{
+	border-left: 1px solid #9f74bf;
+	margin-left: 12px;
+	margin-right: 7px;
+	height: 20px;
+	position: relative;
+	top: 4px;
+}
+
+.logo{
+	width: 189px;
+	height: 51px;
+	margin-top: 77px;
+	margin-bottom: 15px;
+	display: inline-block;
+}
+
+.logo h1{
+	font-family: "Trebuchet MS";
+	color: #f2f2f2;
+	display: inline-block;
+	margin: 0px;
+	padding-bottom: 3px;
+}
+
+.logo img{
+	display: inline-block;
+	border-radius: 6px;
+}
+
+.box-shadow{
+	box-shadow: 2px 2px 11px 2px #251c33;
+}
+
+.text-shadow{
+	text-shadow:2px 2px 11px #251c33;
+}
+
+#large-img img{
+	float: right;
+}
+
+/*-------------------------------main-------------------------------*/
+
+.main a{
+	color: #4e4e4e;
+}
+
+.purple-box{
+	width: 232px;
+	height: 19px;
+	background-image: url(images/purple-box.png);
+	padding: 16px 21px;
+}
+
+.list-decorated li{
+	list-style-image: url(images/list-img.png);
+}
+
+/*-------------------------------footer-------------------------------*/
+
+.footer{
+	width: 100%;
+	border-top: 1px solid #e5e5e5;
+}
+
+.footer a{
+	color: #4e4e4e;
+}
+
+.footer .navbar a{
+	height: 41px;
+}
+
+.vert-div{
+	display: inline-block;
+}
+
+.footer .navbar .vert-div{
+	border-left: 1px solid #4e4e4e;
+	margin-left: 60px;
+	margin-right: 61px;
+	height: 10px;
+}
+
+.bottom{
+	width: 100%;
+	background-image: url(images/background-top.png);
+	text-align: center;
+	height: 68px;
+	padding-top: 25px;
+}
+
+.footer p{
+	color: #dfd2e7;
+	margin: 0px;
+	margin-bottom: 6px;
+}
+
+.bottom a{
+	color: #fff;
+}
