@@ -2,6 +2,12 @@ $(document).ready(function() {
 
 	if(window.location.href.indexOf("index") > -1) {
 		$(".header").height('405');
+		$(".logo").css('margin-top','77px');
+		// $(".header .navbar").css("margin-top","23px");
+	}
+
+	if(window.location.href.indexOf("index") > -1) {
+		
 	}
 
 
@@ -21,11 +27,18 @@ $(document).ready(function() {
 
 
 	if(window.location.href.indexOf("index") > -1) {
-		$("#large-img").html('<img src="images/gyro.png" alt="gyro">');
+		$("#large-img").html('<img src="images/gyro.png" alt="large-gyro">');
 	}
 
 
+	$('#large-img img[alt="large-gyro"]').css('padding-right','0px');
+	
+
+	$('a:contains("Read More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
+	$('a:contains("View More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
+	$(".number-list p").append('&nbsp;&nbsp;<a href=""><img src="images/read-more.png"></a>');
 
 
 
+	
 });

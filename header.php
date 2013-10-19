@@ -11,7 +11,7 @@
 		<div class="container">
 			<div class="navbar right">
 				<ul>
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 
 					<li><a href="researches.php">Researches</a></li>
 
@@ -22,7 +22,7 @@
 					<li><a href="contacts.php">Contacts</a></li>
 				</ul>
 			</div>
-			<div id="large-img" class="half right">
+			<div id="large-img" class="right">
 				<img src="images/half-gyro.png" alt="gyro">
 			</div>
 
@@ -32,7 +32,7 @@
 			</div>
 			<div class="half left">
 				<h1>Discovering New Ways<br>of Scientific Thinking</h1>
-				<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores et quas molestias excep turi sint occaecati cupiditate non provident.  <a href="" class="purple-text">Read More &raquo;</a></p>
+				<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores et quas molestias excep turi sint occaecati cupiditate non provident.  <a href="" class="purple-text">Read More</a></p>
 			</div>
 		</div>
 	</div>

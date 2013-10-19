@@ -35,12 +35,24 @@ h3{
 	font-size: 24px;
 }
 
+h4{
+	font-size: 20px;
+}
+
 .bold{
 	font-weight: bold;
 }
 
-a.purple-text{
+a{
 	color: #a369c4;
+}
+
+.black-text a{
+	color: #000;
+}
+
+a.black-text{
+	color: #000;
 }
 
 .left{
@@ -52,7 +64,7 @@ a.purple-text{
 }
 
 .half{
-	width: 50%;
+	width: 430px;
 }
 
 /*-------------------------------header-------------------------------*/
@@ -73,6 +85,11 @@ a.purple-text{
 
 .header h1{
 	color: #fff;
+	line-height: 35px;
+}
+
+.navbar{
+	clear: right;
 }
 
 .navbar li{
@@ -81,7 +98,7 @@ a.purple-text{
 }
 
 .header .navbar{
-	margin-top: 23px;
+	margin-top: 15px;
 }
 
 .header .navbar a{
@@ -116,8 +133,7 @@ a.purple-text{
 .logo{
 	width: 189px;
 	height: 51px;
-	margin-top: 77px;
-	margin-bottom: 15px;
+	margin-top: 15px;
 	display: inline-block;
 }
 
@@ -126,7 +142,7 @@ a.purple-text{
 	color: #f2f2f2;
 	display: inline-block;
 	margin: 0px;
-	padding-bottom: 3px;
+	padding-top: 5px;
 }
 
 .logo img{
@@ -144,23 +160,125 @@ a.purple-text{
 
 #large-img img{
 	float: right;
+	padding-right: 50px;
+	/*max-width: 100%;*/
 }
+
+#large-img{
+	width: 48%;
+	max-height: 499px;
+}
+
+/*-------------------------------first-setion-------------------------------*/
+.first-section{
+	padding-top: 15px;
+	padding-bottom: 30px;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+.first-section .vert-div{
+	height: 40px;
+	border-left: 1px solid #dfdfdf;
+	margin-left: 10px;
+	margin-right: 15px;
+}
+
+.number-button{
+	background-image: url(images/button.png);
+	width: 41px;
+	height: 28px;
+	display: inline-block;
+	padding-top: 13px;
+	text-align: center;
+	color: #fff;
+}
+
+.number-list p{
+
+}
+
+.no-decoration{
+	text-decoration: none;
+}
+
 
 /*-------------------------------main-------------------------------*/
 
-.main a{
+
+.dark-grey{
 	color: #4e4e4e;
 }
 
-.purple-box{
-	width: 232px;
-	height: 19px;
-	background-image: url(images/purple-box.png);
-	padding: 16px 21px;
+.grey{
+	color: #8e8e8e;
 }
+
+.purple-box{
+	width: 253px;
+	height: 51px;
+	background-image: url(images/purple-box.png);
+	padding-left: 21px;
+	color: #fff;
+}
+.purple-box h3{
+	margin: 0px;
+	padding-top: 10px;
+}
+
 
 .list-decorated li{
 	list-style-image: url(images/list-img.png);
+}
+
+.list-arrow li{
+	list-style-image: url(images/list-arrow.png);
+}
+
+.post{
+	margin-left: 37px;
+	width: 153px;
+}
+
+img.picture{
+	padding: 3px;
+	border: 1px solid #bfbfbf;
+}
+
+.three-column{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.three-column .three-column{
+	width: 271px;
+	display: inline-block;
+	margin-left: 39px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+}
+
+.three-column .three-column:first-of-type{
+	margin-left: 0px;
+}
+
+.three-column p{
+	margin-left: 20px;
+}
+
+.three-column ul{
+	padding-left: 50px;
+}
+
+.three-column li{
+	padding-left: 7px;
+}
+
+/*.first-on-line{
+	margin-left: 0px;
+}*/
+
+.clear{
+	clear: both;
 }
 
 /*-------------------------------footer-------------------------------*/
@@ -168,6 +286,7 @@ a.purple-text{
 .footer{
 	width: 100%;
 	border-top: 1px solid #e5e5e5;
+	clear: both;
 }
 
 .footer a{
