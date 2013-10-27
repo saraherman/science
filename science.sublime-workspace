@@ -1,0 +1,778 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-image"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"large",
+				"large-content"
+			],
+			[
+				"img",
+				"img-gallery"
+			],
+			[
+				"p",
+				"php"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"lis",
+				"list-style-image"
+			],
+			[
+				"text",
+				"text-square"
+			],
+			[
+				"paddin",
+				"padding-right"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"border-",
+				"border-right"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"fff",
+				"fff6c5"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"t",
+				"transferdata"
+			],
+			[
+				"tra",
+				"transfer"
+			],
+			[
+				"un",
+				"untransfered"
+			],
+			[
+				"g",
+				"goodbye"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"ca",
+				"card-text"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"box",
+				"box-in-large-box"
+			],
+			[
+				"div",
+				"div-id"
+			],
+			[
+				"tab",
+				"tab-text"
+			],
+			[
+				"Tab",
+				"TabBuffer"
+			],
+			[
+				"body",
+				"bodyButton"
+			],
+			[
+				"fi",
+				"first-of-type"
+			],
+			[
+				"upp",
+				"toUpperCase"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"fa",
+				"favPlusHated"
+			],
+			[
+				"hate",
+				"hatedNumber"
+			],
+			[
+				"ha",
+				"hatedNumber"
+			],
+			[
+				"fav",
+				"favNumber"
+			],
+			[
+				"fir",
+				"firstLastName"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"set",
+				"setofnumbers"
+			],
+			[
+				"create",
+				"createBicycle"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"form"
+			],
+			[
+				"st",
+				"font-style"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"si",
+				"font-size"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"repeat",
+				"repeat-x"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"img	Tag"
+			],
+			[
+				"b",
+				"border-bottom"
+			],
+			[
+				"B",
+				"border-top"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
+			"settings":
+			{
+				"buffer_size": 2878,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
+			"settings":
+			{
+				"buffer_size": 2452,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"p",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"spa",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lo",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
+		"/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
+		"/K/cis211_markup/lab06/c06x_index.html",
+		"/K/cis211_markup/lab06/styles/c06x_main.css",
+		"/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_speaker.css",
+		"/C/Users/sara/Desktop/cis211/town_hall/speakers/c06x.toobin.html",
+		"/K/cis211_markup/lab06/styles/c06x_speaker.css",
+		"/C/Users/sara/Desktop/c06x.toobin.html",
+		"/C/Users/sara/Desktop/c06x_speaker.css",
+		"/C/Users/sara/Desktop/c06x_main.css",
+		"/C/Users/sara/Desktop/c06x_index.html",
+		"/C/xampp/htdocs/science/index.php",
+		"/C/xampp/htdocs/science/main.css",
+		"/C/xampp/htdocs/science/script.js",
+		"/C/xampp/htdocs/science/header.php",
+		"/K/csis135_javascript/projects/herman16.html",
+		"/K/csis135_javascript/projects/herman17.html",
+		"/K/csis135_javascript/SaraHermanMidterm/herman_ex01.html",
+		"/C/xampp/htdocs/science/footer.php",
+		"/C/xampp/htdocs/science/contacts.php",
+		"/C/xampp/htdocs/science/events.php",
+		"/C/xampp/htdocs/science/services.php",
+		"/C/xampp/htdocs/science/researches.php",
+		"/C/xampp/htdocs/science/contacts",
+		"/C/xampp/htdocs/nightclub/header.php",
+		"/C/xampp/htdocs/nightclub/script.js",
+		"/C/xampp/htdocs/avalane/header.php",
+		"/C/xampp/htdocs/avalane/index.php",
+		"/C/xampp/htdocs/avalane/main.css",
+		"/C/xampp/htdocs/avalane/index.html",
+		"/C/xampp/htdocs/nightclub/index.php",
+		"/C/xampp/htdocs/avalane/footer.php",
+		"/C/xampp/htdocs/avalane/script.js",
+		"/C/Users/sara/Desktop/cis212_dreamweaver/212projects/labCSS/labCSSstyles.css",
+		"/C/xampp/htdocs/nightclub/main.css",
+		"/C/xampp/htdocs/nightclub/nightclub-project.sublime-project",
+		"/C/xampp/htdocs/nightclub/nightclub-project.sublime-workspace",
+		"/C/xampp/htdocs/nightclub/contacts.php",
+		"/C/xampp/htdocs/nightclub/footer.php",
+		"/C/xampp/htdocs/nightclub/residents.php",
+		"/C/xampp/htdocs/nightclub/gallery.php",
+		"/C/xampp/htdocs/nightclub/normalize .css",
+		"/C/xampp/htdocs/nightclub/parties.php",
+		"/C/Users/sara/Documents/GitHub/Nightclub-Theme/footer.php",
+		"/C/xampp/htdocs/nightclub/news.php",
+		"/C/xampp/htdocs/nightclub/club.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/debtco/index.html",
+		"/C/xampp/htdocs/formtest/index.php",
+		"/C/xampp/htdocs/recyCalC/index.php",
+		"/C/xampp/htdocs/index.html",
+		"/C/Users/sara/Desktop/webdev/nightclub/main.css",
+		"/C/Users/sara/Desktop/webdev/nightclub/header.php",
+		"/C/Users/sara/Desktop/webdev/nightclub/club.php",
+		"/C/Users/sara/Desktop/webdev/nightclub/script.js",
+		"/K/csis135_javascript/projects/herman12.html",
+		"/K/csis135_javascript/projects/herman14.html",
+		"/C/Users/sara/Desktop/webdev/online-casino/index.html",
+		"/C/Users/sara/Desktop/webdev/online-casino/main.css",
+		"/K/csis135_javascript/projects/herman13.html",
+		"/K/csis135_javascript/projects/herman11.html",
+		"/C/Users/sara/Documents/GitHub/Bonfun/header.php",
+		"/K/csis135_javascript/JQuery_Sampler.html",
+		"/C/Users/sara/Desktop/Minimal/Minimal/index.html",
+		"/C/Users/sara/AppData/Local/Temp/Rar$EXa0.836/Minimal/index.html",
+		"/K/flat-style/index.html",
+		"/K/flat-style/normalize.css",
+		"/C/Users/sara/Desktop/webdev/ecommerce/js/script.js",
+		"/C/Users/sara/Desktop/webdev/ecommerce/Index.html",
+		"/C/Users/sara/Desktop/webdev/ecommerce/style.css",
+		"/C/xampp/htdocs/debtco/style.css",
+		"/C/xampp/htdocs/debtco/subpage.html",
+		"/C/Users/sara/Desktop/website/ecommerce/style.css",
+		"/C/Users/sara/Desktop/website/ecommerce/Index.html",
+		"/C/xampp/htdocs/debtco/function.js",
+		"/C/Users/sara/Desktop/website/ecommerce/script.js",
+		"/C/Users/sara/Documents/GitHub/DebtCompanyResearch/style.css",
+		"/C/Users/sara/Desktop/website/normalize.css",
+		"/C/xampp/htdocs/formtest/processor.php",
+		"/K/csis211_markup/halloween/index.html",
+		"/K/csis211_markup/halloween/styles/main.css",
+		"/C/Users/sara/Desktop/cis212_dreamweaver/saraherman.html",
+		"/K/csis211_markup/halloween/index1.html",
+		"/K/csis135_javascript/projects/herman08.html",
+		"/K/csis135_javascript/projects/herman06.html",
+		"/K/csis135_javascript/projects/herman07.html",
+		"/K/csis135_javascript/projects/herman09.html",
+		"/K/csis135_javascript/projects/herman05.html",
+		"/K/csis135_javascript/projects/herman9.html",
+		"/K/csis135_javascript/projects/herman01.html",
+		"/K/csis135_javascript/projects/herman10.html",
+		"/K/csis135_javascript/projects/herman6.html",
+		"/K/csis135 javascript/herman5.html",
+		"/K/csis135 javascript/nick1.html",
+		"/K/csis135 javascript/herman3.html",
+		"/K/csis135 javascript/herman2.html",
+		"/K/csis135 javascript/herman1.html",
+		"/K/csis135 javascript/herman4.html",
+		"/K/csis211/lab0/saraherman.html",
+		"/C/Users/sara/Desktop/Win Os/Tutorial.01/Tutorial/placeholder",
+		"/C/Users/sara/Desktop/website/blocky/blockystyle.css",
+		"/C/Users/sara/Documents/Guild Wars 2/Local.dat",
+		"/C/Users/sara/Desktop/website/blocky/Blocky Site.html",
+		"/C/Users/sara/Desktop/website/blocky/script.js",
+		"/C/Users/sara/Desktop/website/javascript.js",
+		"/C/Users/sara/Desktop/website/blockystyle.css",
+		"/C/Users/sara/Desktop/website/Blocky Site.html",
+		"/C/Users/sara/Desktop/website/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".dis",
+			"half",
+			"list",
+			"purple",
+			"274",
+			"8e8e8e",
+			"4e4e4e",
+			"h2",
+			"logo",
+			"purple-text",
+			"myriad",
+			"// $('').('');",
+			"box",
+			"dark",
+			"grey",
+			"text",
+			".display",
+			".displ",
+			"padding",
+			"text",
+			"buttons",
+			"gallery",
+			"main",
+			"main h2",
+			"purple",
+			"img-ga",
+			".body",
+			"a",
+			"butto",
+			"li",
+			"main",
+			";\n",
+			".main h2",
+			"purple",
+			"h2",
+			"news",
+			"green",
+			"med",
+			"box-med",
+			"box-in",
+			"shield",
+			".top",
+			"box",
+			"box-outline",
+			"Buy",
+			"medi",
+			"input",
+			".input",
+			"submit-button",
+			".tab-text",
+			"officina",
+			".land-repeat",
+			".footer div div",
+			".footer div div p",
+			".header",
+			".header-trim li",
+			"header-trim",
+			"aside",
+			"aside h1",
+			"footer",
+			"aside",
+			".aside",
+			".footer",
+			".top",
+			"footer",
+			".clouds",
+			".tab",
+			"act-",
+			".left",
+			".left\nbutton",
+			".left\nleft",
+			".left\n",
+			"input left\n",
+			";\n",
+			"ribbon",
+			"button",
+			"block",
+			".body",
+			"body",
+			"text",
+			"butto",
+			"buoo",
+			"	\n",
+			"ul",
+			"body",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
+					"settings":
+					{
+						"buffer_size": 2878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 213.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
+					"settings":
+					{
+						"buffer_size": 2452,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"i",
+				"index.html"
+			],
+			[
+				"",
+				"/C/Users/sara/Desktop/website/ecommerce/Index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true
+}

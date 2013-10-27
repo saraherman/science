@@ -2,7 +2,7 @@
 		<div class="container">
 			<div class="navbar">
 				<ul>
-					<li><a href="index.html">Home</a></li>
+					<li><a href="index.php">Home</a></li>
 
 					<li><a href="researches.php">Researches</a></li>
 

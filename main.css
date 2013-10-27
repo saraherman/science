@@ -64,7 +64,7 @@ a.black-text{
 }
 
 .half{
-	width: 430px;
+	width: 415px;
 }
 
 /*-------------------------------header-------------------------------*/
@@ -201,9 +201,12 @@ a.black-text{
 	text-decoration: none;
 }
 
+.full-post img{
+	float: left;
+	margin-right: 25px;
+}
 
 /*-------------------------------main-------------------------------*/
-
 
 .dark-grey{
 	color: #4e4e4e;
@@ -219,6 +222,7 @@ a.black-text{
 	background-image: url(images/purple-box.png);
 	padding-left: 21px;
 	color: #fff;
+	margin-bottom: 25px;
 }
 .purple-box h3{
 	margin: 0px;
@@ -228,15 +232,35 @@ a.black-text{
 
 .list-decorated li{
 	list-style-image: url(images/list-img.png);
+	vertical-align: top;
 }
 
 .list-arrow li{
 	list-style-image: url(images/list-arrow.png);
 }
 
+.post-block{
+}
+
 .post{
-	margin-left: 37px;
+
+}
+
+.post .picture{
+	float: left;
+	margin-right: 15px;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.post.horiz{
 	width: 153px;
+	margin-left: 38px;
+
+}
+
+.post.vert{
+margin-bottom: 25px;
 }
 
 img.picture{
@@ -271,6 +295,19 @@ img.picture{
 
 .three-column li{
 	padding-left: 7px;
+	padding-bottom: 3px;
+}
+
+.three-column a {
+	font-family: arial;
+	font-size: 13px;
+	line-height: 20px;
+	position: relative;
+	top: -6px;
+}
+
+.three-column img{
+	margin-bottom: 5px;
 }
 
 /*.first-on-line{
@@ -280,6 +317,29 @@ img.picture{
 .clear{
 	clear: both;
 }
+
+.sidebar{
+	width: 288px;
+	margin-right: 50px;
+}
+
+.sidebar li{
+	padding-left: 3px;
+	padding-bottom: 3px;
+	color: #4e4e4e;
+}
+
+.sidebar ul{
+	padding-left: 30px;
+		display: inline-block;	
+
+}
+
+.two-thirds{
+	width:570px;
+	display: inline-block;	
+}
+
 
 /*-------------------------------footer-------------------------------*/
 

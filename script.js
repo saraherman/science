@@ -1,3 +1,5 @@
+
+
 $(document).ready(function() {
 
 	if(window.location.href.indexOf("index") > -1) {
@@ -6,9 +8,9 @@ $(document).ready(function() {
 		// $(".header .navbar").css("margin-top","23px");
 	}
 
-	if(window.location.href.indexOf("index") > -1) {
-		
-	}
+
+	var url = window.location.pathname;
+	document.title = url.substring(url.lastIndexOf('/')+1, url.length-4);
 
 
 	$(function(){
@@ -34,8 +36,9 @@ $(document).ready(function() {
 	$('#large-img img[alt="large-gyro"]').css('padding-right','0px');
 	
 
-	$('a:contains("Read More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
-	$('a:contains("View More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
+	// $('a:contains("Read More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
+	// $('a:contains("View More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
+	$('a:contains("More")').after('&nbsp;&nbsp;<img src="images/read-more.png">');
 	$(".number-list p").append('&nbsp;&nbsp;<a href=""><img src="images/read-more.png"></a>');
 
 
