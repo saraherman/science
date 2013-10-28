@@ -2,7 +2,7 @@
 
 <div class="first-section">
 	<div class="container">
-		<div class="full-post">
+		<div class="content">
 			<h2 class="dark-grey">Specialized Services</h2>
 			<img src="images/monitor.png" alt="monitor">
 			<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati.</p>
@@ -35,18 +35,24 @@
 		</div>
 
 		<div class="two-thirds">
-			<div></div>
+			<div class="content">
+				<h2 class="dark-grey">Our Standards</h2>
+				<p><a href="">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias</a></p>
+				<p>Excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio am libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit.</p>
+				<p>Quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis.</p>
+				<p><a href="" >Read More</a></p>
+			</div>
 
 			<div class="post-block">
 				<div class="post vert">
 					<div class="picture"><img src="images/molecules.png" class="picture" alt="molecules"></div>
 					<p class="bold">Lorem ipsum dolor sit amet, consectetur adipisicing</p>
-					<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consuis aute irure dolor in reprehenderit in voluptate velit esse cillum.&nbsp;<a href="" >More</a></p>
+					<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consuis aute irure dolor in reprehenderit in voluptate velit esse cillum.&nbsp;&nbsp;&nbsp;&nbsp;<a href="" >More</a></p>
 				</div>
 				<div class="post vert">
-					<div class="picture"><img src="images/felame-chemist.png" class="picture" alt="female chemist"></div>
+					<div class="picture"><img src="images/female-chemist.png" class="picture" alt="female chemist"></div>
 					<p class="bold">Nemo enim ipsam voluptatem quia voluptas sit aspernatur</p>
-					<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.&nbsp;<a href="" >More</a></p>
+					<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam.&nbsp;&nbsp;&nbsp;&nbsp;<a href="" >More</a></p>
 				</div>
 			</div>
 

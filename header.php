@@ -31,7 +31,7 @@
 				<img src="images/logo.png" alt="S" class="box-shadow left">
 				<h1 class="text-shadow right">cience</h1>
 			</div>
-			<div class="half left">
+			<div class="true-half left">
 				<h1>Discovering New Ways<br>of Scientific Thinking</h1>
 				<p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis prae sentium voluptatum deleniti atque corrupti quos dolores et quas molestias excep turi sint occaecati cupiditate non provident.  <a href="" class="purple-text">Read More</a></p>
 			</div>

@@ -2,7 +2,7 @@
 
 <div class="first-section">
 	<div class="container">
-		<div class="full-post">
+		<div class="content">
 			<h2 class="dark-grey">The Best You Can Find on Web!</h2>
 			<img src="images/molecule.png" alt="molecule">
 			<p class="bold">Science is a free template created by TemplateMonster.com team, optimized for 1024X768 screen resolution.</p>

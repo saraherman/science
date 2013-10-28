@@ -4,16 +4,36 @@
 		"selected_items":
 		[
 			[
-				"max",
-				"max-height"
+				"mar",
+				"margin"
 			],
 			[
-				"mar",
-				"margin-top"
+				"border",
+				"border"
 			],
 			[
 				"padd",
 				"padding-left"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"post",
+				"post-block"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"max",
+				"max-height"
 			],
 			[
 				"s",
@@ -38,10 +58,6 @@
 			[
 				"back",
 				"background-color"
-			],
-			[
-				"border",
-				"border-top"
 			],
 			[
 				"in",
@@ -104,24 +120,12 @@
 				"padding-right"
 			],
 			[
-				"fon",
-				"font-family"
-			],
-			[
-				"li",
-				"li	Tag"
-			],
-			[
 				"le",
 				"left"
 			],
 			[
 				"border-",
 				"border-right"
-			],
-			[
-				"pa",
-				"padding"
 			],
 			[
 				"fff",
@@ -308,18 +312,34 @@
 	"buffers":
 	[
 		{
-			"file": "/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
+			"file": "contacts.php",
 			"settings":
 			{
-				"buffer_size": 2878,
+				"buffer_size": 1627,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
+			"file": "main.css",
 			"settings":
 			{
-				"buffer_size": 2452,
+				"buffer_size": 6433,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/nightclub/contacts.php",
+			"settings":
+			{
+				"buffer_size": 1618,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 1304,
 				"line_ending": "Windows"
 			}
 		}
@@ -403,7 +423,7 @@
 				"Snippet: Lorem ipsum"
 			]
 		],
-		"width": 512.0
+		"width": 392.0
 	},
 	"console":
 	{
@@ -420,6 +440,18 @@
 	},
 	"file_history":
 	[
+		"/C/xampp/htdocs/science/script.js",
+		"/C/xampp/htdocs/science/researches.php",
+		"/C/xampp/htdocs/science/services.php",
+		"/C/xampp/htdocs/nightclub/footer.php",
+		"/C/xampp/htdocs/science/events.php",
+		"/C/xampp/htdocs/science/index.php",
+		"/C/xampp/htdocs/science/header.php",
+		"/C/xampp/htdocs/vertexa/style.css",
+		"/C/xampp/htdocs/vertexa/index.php",
+		"/C/xampp/htdocs/science/main.css",
+		"/C/xampp/htdocs/science/footer.php",
+		"/C/xampp/htdocs/science/contacts.php",
 		"/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
 		"/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
 		"/K/cis211_markup/lab06/c06x_index.html",
@@ -431,18 +463,9 @@
 		"/C/Users/sara/Desktop/c06x_speaker.css",
 		"/C/Users/sara/Desktop/c06x_main.css",
 		"/C/Users/sara/Desktop/c06x_index.html",
-		"/C/xampp/htdocs/science/index.php",
-		"/C/xampp/htdocs/science/main.css",
-		"/C/xampp/htdocs/science/script.js",
-		"/C/xampp/htdocs/science/header.php",
 		"/K/csis135_javascript/projects/herman16.html",
 		"/K/csis135_javascript/projects/herman17.html",
 		"/K/csis135_javascript/SaraHermanMidterm/herman_ex01.html",
-		"/C/xampp/htdocs/science/footer.php",
-		"/C/xampp/htdocs/science/contacts.php",
-		"/C/xampp/htdocs/science/events.php",
-		"/C/xampp/htdocs/science/services.php",
-		"/C/xampp/htdocs/science/researches.php",
 		"/C/xampp/htdocs/science/contacts",
 		"/C/xampp/htdocs/nightclub/header.php",
 		"/C/xampp/htdocs/nightclub/script.js",
@@ -458,7 +481,6 @@
 		"/C/xampp/htdocs/nightclub/nightclub-project.sublime-project",
 		"/C/xampp/htdocs/nightclub/nightclub-project.sublime-workspace",
 		"/C/xampp/htdocs/nightclub/contacts.php",
-		"/C/xampp/htdocs/nightclub/footer.php",
 		"/C/xampp/htdocs/nightclub/residents.php",
 		"/C/xampp/htdocs/nightclub/gallery.php",
 		"/C/xampp/htdocs/nightclub/normalize .css",
@@ -545,6 +567,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"active",
+			"large-img",
+			"contact",
+			"large",
+			"two",
+			"content",
+			"list",
+			"half",
+			"full",
+			"picture",
+			"three",
+			".post",
+			"purple",
 			".dis",
 			"half",
 			"list",
@@ -649,50 +684,49 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/sara/Desktop/cis211/town_hall/c06x_index.html",
+					"file": "contacts.php",
 					"settings":
 					{
-						"buffer_size": 2878,
+						"buffer_size": 1627,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1118,
+								1118
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
-						"translation.x": 0.0,
-						"translation.y": 213.0,
+						"translation.x": 64.0,
+						"translation.y": 324.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/C/Users/sara/Desktop/cis211/town_hall/styles/c06x_main.css",
+					"file": "main.css",
 					"settings":
 					{
-						"buffer_size": 2452,
+						"buffer_size": 6433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								184,
-								184
+								5260,
+								5260
 							]
 						],
 						"settings":
@@ -700,8 +734,62 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
+						"translation.x": 41.0,
+						"translation.y": 7079.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/nightclub/contacts.php",
+					"settings":
+					{
+						"buffer_size": 1618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								449,
+								449
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "script.js",
+					"settings":
+					{
+						"buffer_size": 1304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								949,
+								949
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 432.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
